@@ -38,10 +38,10 @@ Incident and breach metadata supports documenting transfer-related breaches, thi
 The asset-level record supports organizing this information alongside data-subject categories, transfer-destination countries, responsible data-controller contact details, the date of the most recent data-impact assessment, third-party processor assessments, and a transfer-compliance score.
 
 
-==========================================================================================
+==============================================================================
 
 ## Development Approach
 
 This application was architected with AI assistance. The architect specified the requirements, 
-constraints (NIS 2 compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
+constraints (SCHEMS II compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
 The AI language model generated the implementation, database schemas, and documentation accordingly.
