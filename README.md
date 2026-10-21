@@ -48,3 +48,4 @@ The asset-level record supports organizing this information alongside data-subje
 This application was architected with AI assistance. The architect specified the requirements, 
 constraints (SCHEMS II compliance, Python 3.12), and functional specifications. 
 The AI language model generated the implementation and documentation accordingly.
+x
