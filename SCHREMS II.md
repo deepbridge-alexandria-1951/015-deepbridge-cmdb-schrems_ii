@@ -248,4 +248,4 @@ SCHREMS II violations are enforced under GDPR penalties (the judgment itself is 
 
 **Examples of Enforcement:**
 - Schrems II and subsequent rulings have invalidated data transfers to USA, UK, Switzerland, and other countries depending on legal landscape assessments
-x
+
